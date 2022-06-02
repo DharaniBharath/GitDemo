@@ -22,7 +22,8 @@ public class LoginStepdef {
 
 	    @Then("^check if the browser is started$")
 	    public void check_if_the_browser_is_started() throws Throwable {
-	       System.out.println("browser is started");
+	       System.out.println("browser is started behin");
+	       System.out.println("browser is started begin");
 	    }
 	
 	
